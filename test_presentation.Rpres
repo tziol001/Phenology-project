@@ -1,0 +1,35 @@
+Comparison of phenological metric in a deciduous forest estimated from MODIS data for 2013-2014 in R
+========================================================
+author: Nikoula team
+date: 24/1/2015
+
+What is phenology?
+========================================================
+Phenology refers to the study of timing of recurrent events, such as leaf emergence or leaf fall
+
+
+The timing of phenological events is important for:
+- monitor the impact of decidious trees on atmospheric carbon levels
+- management of natural resources (water and timber)
+- agriculture (planting and harvest times, pest control)
+- understanding hazards (monitoring and prediction of drought and fire risk)
+
+Study area
+========================================================
+Study area should have the following features :
+- forest type
+- sufficiently large size to justify the use of satellite imagery
+- availability of recently acquired remote sensing data and topographic map
+
+Slide With Image Left
+========================================================
+
+![alt text](ndvi.png)
+***
+This text will appear to the right
+Slide With Code
+========================================================
+
+```{r}
+plot(clc2012_forest)
+```
